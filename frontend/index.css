@@ -1,0 +1,21 @@
+.header {
+    padding: 10px;
+    text-align: center;
+    background: #1abc9c;
+    color: white;
+    font-family: sans-serif;
+    font-size: 30px;
+  }
+
+.menu {
+    background: grey;
+    padding: 10px;
+    font-family: sans-serif;
+}
+
+#LoginButton {
+    text-align: center;
+    float: right;
+    background: grey;
+    border: 0px;
+}
